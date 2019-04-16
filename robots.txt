@@ -3,4 +3,10 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 hellos
+=======
+
+
+Hello L
+>>>>>>> 3e5840626c5d10b422de5e738221b2e76e894414
