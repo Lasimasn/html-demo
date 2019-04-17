@@ -14,10 +14,7 @@
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
 
-<<<<<<< HEAD
 boooo
-=======
 
 
 Hello Lasima
->>>>>>> 45a45e5c7a44dc4952f621d6a500e9072560eec0
